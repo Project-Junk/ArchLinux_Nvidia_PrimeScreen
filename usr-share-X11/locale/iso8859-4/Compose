@@ -1,48 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #
 # ISO 8859-4 (Latin4) Compose Sequence
 #
@@ -305,7 +260,6 @@
 <Multi_key> <quotedbl> <o>		: "\366"	odiaeresis
 <Multi_key> <minus> <colon>		: "\367"	division
 <Multi_key> <colon> <minus>		: "\367"	division
-
 <Multi_key> <o> <slash>			: "\370"	ooblique
 <Multi_key> <slash> <o>			: "\370"	ooblique
 <Multi_key> <u> <comma>			: "\371"	uogonek
@@ -327,7 +281,6 @@
 <Multi_key> <u> <minus>			: "\376"	umacron
 <Multi_key> <minus> <u>			: "\376"	umacron
 <Multi_key> <period> <period>		: "\377"	abovedot
-
 <dead_abovedot> <E> 			: "\314"	Eabovedot
 <dead_abovedot> <e>			: "\354"	eabovedot
 <dead_abovedot> <abovedot>		: "\377"	abovedot

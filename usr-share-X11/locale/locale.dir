@@ -1,55 +1,9 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #
 #	This file contains locale database file names
 #	The first word is the locale database file name and
 #	the second word is the full locale name.
 #
 #
-
 C/XLC_LOCALE				C
 iso8859-1/XLC_LOCALE			aa_DJ.ISO8859-1
 iso8859-1/XLC_LOCALE			af_ZA.ISO8859-1
@@ -288,8 +242,6 @@ iso8859-1/XLC_LOCALE			so_DJ.ISO8859-1
 iso8859-1/XLC_LOCALE			so_KE.ISO8859-1
 iso8859-1/XLC_LOCALE			so_SO.ISO8859-1
 iso8859-2/XLC_LOCALE 			sq_AL.ISO8859-2
-iso8859-2/XLC_LOCALE			sr_CS.ISO8859-2
-iso8859-5/XLC_LOCALE			sr_CS.ISO8859-5
 iso8859-2/XLC_LOCALE			sr_YU.ISO8859-2
 iso8859-5/XLC_LOCALE			sr_YU.ISO8859-5
 microsoft-cp1251/XLC_LOCALE		sr_YU.CP1251
@@ -451,7 +403,9 @@ en_US.UTF-8/XLC_LOCALE                 hne_IN.UTF-8
 en_US.UTF-8/XLC_LOCALE			hr_HR.UTF-8
 en_US.UTF-8/XLC_LOCALE			hu_HU.UTF-8
 en_US.UTF-8/XLC_LOCALE			hy_AM.UTF-8
+en_US.UTF-8/XLC_LOCALE			ia.UTF-8
 en_US.UTF-8/XLC_LOCALE			id_ID.UTF-8
+en_US.UTF-8/XLC_LOCALE			ie.UTF-8
 en_US.UTF-8/XLC_LOCALE			is_IS.UTF-8
 en_US.UTF-8/XLC_LOCALE			it_CH.UTF-8
 en_US.UTF-8/XLC_LOCALE			it_IT.UTF-8
@@ -522,7 +476,6 @@ en_US.UTF-8/XLC_LOCALE			sk_SK.UTF-8
 en_US.UTF-8/XLC_LOCALE			sl_SI.UTF-8
 en_US.UTF-8/XLC_LOCALE            so_ET.UTF-8
 en_US.UTF-8/XLC_LOCALE			sq_AL.UTF-8
-en_US.UTF-8/XLC_LOCALE			sr_CS.UTF-8
 en_US.UTF-8/XLC_LOCALE			sr_ME.UTF-8
 en_US.UTF-8/XLC_LOCALE			sr_RS.UTF-8
 en_US.UTF-8/XLC_LOCALE			sr_RS.UTF-8@latin
@@ -558,58 +511,12 @@ zh_HK.UTF-8/XLC_LOCALE			zh_HK.UTF-8
 zh_CN.UTF-8/XLC_LOCALE			zh_SG.UTF-8
 zh_TW.UTF-8/XLC_LOCALE			zh_TW.UTF-8
 en_US.UTF-8/XLC_LOCALE			zu_ZA.UTF-8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #
 #	This file contains locale database file names
 #	The first word is the locale database file name and
 #	the second word is the full locale name.
 #
 #
-
 C/XLC_LOCALE:				C
 iso8859-1/XLC_LOCALE:			aa_DJ.ISO8859-1
 iso8859-1/XLC_LOCALE:			af_ZA.ISO8859-1
@@ -848,8 +755,6 @@ iso8859-1/XLC_LOCALE:			so_DJ.ISO8859-1
 iso8859-1/XLC_LOCALE:			so_KE.ISO8859-1
 iso8859-1/XLC_LOCALE:			so_SO.ISO8859-1
 iso8859-2/XLC_LOCALE: 			sq_AL.ISO8859-2
-iso8859-2/XLC_LOCALE:			sr_CS.ISO8859-2
-iso8859-5/XLC_LOCALE:			sr_CS.ISO8859-5
 iso8859-2/XLC_LOCALE:			sr_YU.ISO8859-2
 iso8859-5/XLC_LOCALE:			sr_YU.ISO8859-5
 microsoft-cp1251/XLC_LOCALE:		sr_YU.CP1251
@@ -1011,7 +916,9 @@ en_US.UTF-8/XLC_LOCALE:                 hne_IN.UTF-8
 en_US.UTF-8/XLC_LOCALE:			hr_HR.UTF-8
 en_US.UTF-8/XLC_LOCALE:			hu_HU.UTF-8
 en_US.UTF-8/XLC_LOCALE:			hy_AM.UTF-8
+en_US.UTF-8/XLC_LOCALE:			ia.UTF-8
 en_US.UTF-8/XLC_LOCALE:			id_ID.UTF-8
+en_US.UTF-8/XLC_LOCALE:			ie.UTF-8
 en_US.UTF-8/XLC_LOCALE:			is_IS.UTF-8
 en_US.UTF-8/XLC_LOCALE:			it_CH.UTF-8
 en_US.UTF-8/XLC_LOCALE:			it_IT.UTF-8
@@ -1082,7 +989,6 @@ en_US.UTF-8/XLC_LOCALE:			sk_SK.UTF-8
 en_US.UTF-8/XLC_LOCALE:			sl_SI.UTF-8
 en_US.UTF-8/XLC_LOCALE:            so_ET.UTF-8
 en_US.UTF-8/XLC_LOCALE:			sq_AL.UTF-8
-en_US.UTF-8/XLC_LOCALE:			sr_CS.UTF-8
 en_US.UTF-8/XLC_LOCALE:			sr_ME.UTF-8
 en_US.UTF-8/XLC_LOCALE:			sr_RS.UTF-8
 en_US.UTF-8/XLC_LOCALE:			sr_RS.UTF-8@latin

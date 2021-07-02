@@ -1,48 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #
 # koi8-r Compose Sequence
 #
@@ -55,5 +10,4 @@
 #
 # <Multi_key> Means <Compose>
 # Special Character
-
 # End of Sequence Definition

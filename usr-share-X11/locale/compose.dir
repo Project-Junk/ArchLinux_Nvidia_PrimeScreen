@@ -1,48 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #
 #	This file contains compose table file names.
 #	The first word is the compose table file name
@@ -284,8 +239,6 @@ iso8859-1/Compose		so_DJ.ISO8859-1
 iso8859-1/Compose		so_KE.ISO8859-1
 iso8859-1/Compose		so_SO.ISO8859-1
 iso8859-2/Compose		sq_AL.ISO8859-2
-iso8859-2/Compose		sr_CS.ISO8859-2
-iso8859-5/Compose		sr_CS.ISO8859-5
 iso8859-2/Compose		sr_YU.ISO8859-2
 microsoft-cp1251/Compose	sr_YU.CP1251
 iso8859-5/Compose		sr_YU.ISO8859-5
@@ -521,7 +474,6 @@ en_US.UTF-8/Compose		sk_SK.UTF-8
 en_US.UTF-8/Compose		sl_SI.UTF-8
 en_US.UTF-8/Compose		so_ET.UTF-8
 en_US.UTF-8/Compose		sq_AL.UTF-8
-sr_CS.UTF-8/Compose		sr_CS.UTF-8
 en_US.UTF-8/Compose		sr_ME.UTF-8
 en_US.UTF-8/Compose		sr_RS.UTF-8
 en_US.UTF-8/Compose		sr_YU.UTF-8
@@ -557,51 +509,6 @@ zh_HK.UTF-8/Compose		zh_HK.UTF-8
 en_US.UTF-8/Compose		zh_SG.UTF-8
 zh_TW.UTF-8/Compose		zh_TW.UTF-8
 en_US.UTF-8/Compose		zu_ZA.UTF-8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #
 #	This file contains compose table file names.
 #	The first word is the compose table file name
@@ -843,8 +750,6 @@ iso8859-1/Compose:		so_DJ.ISO8859-1
 iso8859-1/Compose:		so_KE.ISO8859-1
 iso8859-1/Compose:		so_SO.ISO8859-1
 iso8859-2/Compose:		sq_AL.ISO8859-2
-iso8859-2/Compose:		sr_CS.ISO8859-2
-iso8859-5/Compose:		sr_CS.ISO8859-5
 iso8859-2/Compose:		sr_YU.ISO8859-2
 microsoft-cp1251/Compose:	sr_YU.CP1251
 iso8859-5/Compose:		sr_YU.ISO8859-5
@@ -1080,7 +985,6 @@ en_US.UTF-8/Compose:		sk_SK.UTF-8
 en_US.UTF-8/Compose:		sl_SI.UTF-8
 en_US.UTF-8/Compose:		so_ET.UTF-8
 en_US.UTF-8/Compose:		sq_AL.UTF-8
-sr_CS.UTF-8/Compose:		sr_CS.UTF-8
 en_US.UTF-8/Compose:		sr_ME.UTF-8
 en_US.UTF-8/Compose:		sr_RS.UTF-8
 en_US.UTF-8/Compose:		sr_YU.UTF-8
