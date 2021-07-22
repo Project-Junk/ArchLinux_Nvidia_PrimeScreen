@@ -6,20 +6,22 @@ This workaround is  Deprecated use the below instructions instead
 **Use this method instead**
 if you have a hybrid gpu as intel and nvidia and if you want to use nvidia gpu for screens
 on arch linux then use 
-the system76-power service 
+the system76-power service by system76.com ( popOS team ) as it is more efficent and doesn't require any system files tweaking
 https://aur.archlinux.org/packages/system76-power/
 no need to modify any files anymore
 install the system76-power service from the above aur repo using yay ( yet another yarourt )
-then  enable the system76-power.service using ```sudo systemctl enable system76-power.service```
+then  enable the system76-power.service using 
+
+```sudo systemctl enable system76-power.service```
 after that you can use the hybrid/nvidia only preference using 
 
-#hybrid
+# hybrid
 ```sudo system76-power graphics hybrid``` 
 
 **reboot**
 this will enable the intel gpu to be used for display and nvidia gpu for graphics intensive task (games)
 
-#nvidia only
+# nvidia only
 ```sudo system76-power graphics  nvidia```
 
 **reboot**
