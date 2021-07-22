@@ -28,3 +28,14 @@ this will enable the intel gpu to be used for display and nvidia gpu for graphic
 
 this will enable the nvidia gpu to be used for both display and gpu intensive tasks
 (note :- i use this mode as my intel 630 doesn't provide a smooth UI experience on gnome) 
+
+# KDE PLASMA
+
+for KDE Plasma to work with nvidia display you need to search for Xsetup file
+if you are using sddm then it will be in ```/usr/share/sddm/scripts/```
+
+then add these two lines to the setup file
+```/usr/bin/xrandr --setprovideroutputsource modesetting NVIDIA-0```
+```/usr/bin/xrandr --auto```
+save and reboot and system76-power should set up the nvidia gpu for display
+
