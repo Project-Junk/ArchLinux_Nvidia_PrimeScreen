@@ -37,5 +37,6 @@ if you are using sddm then it will be in ```/usr/share/sddm/scripts/```
 then add these two lines to the setup file
 ```/usr/bin/xrandr --setprovideroutputsource modesetting NVIDIA-0```
 ```/usr/bin/xrandr --auto```
+```/usr/bin/xrandr --dpi 96```
 save and reboot and system76-power should set up the nvidia gpu for display
 
