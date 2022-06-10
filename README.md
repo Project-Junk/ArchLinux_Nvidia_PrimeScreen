@@ -45,7 +45,7 @@ got to /etc/lightdm/display_setup.sh
 then add these there
 ```#!/bin/sh
 xrandr --setprovideroutputsource modesetting NVIDIA-0
-xrandr --auto```
+xrandr --auto
 
 
 
