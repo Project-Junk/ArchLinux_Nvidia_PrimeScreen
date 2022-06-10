@@ -40,3 +40,12 @@ then add these two lines to the setup file
 ```/usr/bin/xrandr --dpi 96```
 save and reboot and system76-power should set up the nvidia gpu for display
 
+# LIGHT DM
+got to /etc/lightdm/display_setup.sh
+then add these there
+```#!/bin/sh
+xrandr --setprovideroutputsource modesetting NVIDIA-0
+xrandr --auto```
+
+
+
