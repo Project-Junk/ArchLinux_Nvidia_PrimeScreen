@@ -1,4 +1,4 @@
-# ArchLinux_Nvidia_PrimeScreen
+# Nvidia PrimeScreen
 
 This workaround is  Deprecated use the below instructions instead  
 
