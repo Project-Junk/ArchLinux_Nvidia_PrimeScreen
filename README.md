@@ -7,7 +7,7 @@ This workaround is  Deprecated use the below instructions instead
 if you have a hybrid gpu as intel and nvidia and if you want to use nvidia gpu for screens
 on arch linux then use 
 the system76-power service by system76.com ( popOS team ) as it is more efficent and doesn't require any system files tweaking
-https://aur.archlinux.org/packages/system76-power/
+https://aur.archlinux.org/packages/system76-power.git/
 no need to modify any files anymore
 install the system76-power service from the above aur repo using yay ( yet another yarourt )
 then  enable the system76-power.service using 
